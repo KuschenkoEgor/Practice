@@ -1,2 +1,2 @@
-# Practice
+# golang-book
 Practice
